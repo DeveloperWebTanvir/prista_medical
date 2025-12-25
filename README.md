@@ -1,2 +1,2 @@
-# Prism---Creative-Agency-
-Prism Creative Agency is a modern and stylish template built for design studios, branding agencies, and creative teams. It features service showcases, portfolio highlights, team sections, and smooth navigation. The layout presents creative work with clarity, balance, and a confident professional tone.
+# prista_medical
+Prista Medical is a clean and dependable template designed for clinics, hospitals, and healthcare providers. It includes sections for medical services, doctors, departments, appointments, and patient information. The layout supports clear communication and presents healthcare services with trust and professionalism.
